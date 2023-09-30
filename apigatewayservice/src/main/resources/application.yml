@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: apigatewayserver
+  config:
+    import: optional:configserver:http://localhost:8028/     

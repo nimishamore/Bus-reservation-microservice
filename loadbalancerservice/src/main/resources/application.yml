@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: loadbalancerservice
+  config:
+    import: optional:configserver:http://localhost:8028/

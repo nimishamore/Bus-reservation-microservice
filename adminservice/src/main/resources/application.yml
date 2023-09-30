@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: adminservice
+  config:
+    import: optional:configserver:http://localhost:8028/    

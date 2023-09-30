@@ -1,0 +1,3 @@
+com\oauthjwtserver\AuthJwtServer.class
+com\oauthjwtserver\SecurityConfig.class
+com\oauthjwtserver\Base64Encoder.class
